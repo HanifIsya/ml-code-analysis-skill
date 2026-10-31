@@ -1,0 +1,26 @@
+{
+  "name": "ml-code-analysis-skill",
+  "displayName": "ML Code Analysis & Technical Report Generator",
+  "version": "1.0.0",
+  "description": "Comprehensive Machine Learning code analysis skill that produces publication-grade Word (.docx) technical reports featuring line-by-line verified codeblocks, architectural flowcharts, step-by-step numerical simulations, and empirical benchmark evaluations.",
+  "author": {
+    "name": "Hanif Isya Annafi",
+    "email": "hanifisya.annafi02@gmail.com",
+    "url": "https://github.com/HanifIsya"
+  },
+  "homepage": "https://github.com/HanifIsya/ml-code-analysis-skill",
+  "repository": "https://github.com/HanifIsya/ml-code-analysis-skill",
+  "license": "MIT",
+  "keywords": [
+    "machine-learning",
+    "code-analysis",
+    "technical-report",
+    "docx-generator",
+    "ai-skill",
+    "pipeline-analysis",
+    "flowchart",
+    "simulation",
+    "code-verification"
+  ],
+  "defaultEnabled": true
+}

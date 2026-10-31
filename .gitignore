@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Office / Generated documents & Data
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pdf
+*.zip
+*.bak
+*.pre_eval.bak
+~$*
+
+# Images / Charts generated at runtime
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Verification / Temporary dumps
+dump_*.txt
+out_*.txt
+*.log
+*.tmp

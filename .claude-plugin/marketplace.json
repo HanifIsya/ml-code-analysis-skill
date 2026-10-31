@@ -1,0 +1,43 @@
+{
+  "name": "hanifisya-ml",
+  "owner": {
+    "name": "Hanif Isya Annafi",
+    "email": "hanifisya.annafi02@gmail.com",
+    "url": "https://github.com/HanifIsya"
+  },
+  "metadata": {
+    "description": "Professional AI and Machine Learning engineering skills by Hanif Isya Annafi",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ml-code-analysis-skill",
+      "source": "./",
+      "description": "Comprehensive Machine Learning code analysis skill that produces publication-grade Word (.docx) technical reports featuring line-by-line verified codeblocks, architectural flowcharts, step-by-step numerical simulations, and empirical benchmark evaluations.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Hanif Isya Annafi",
+        "email": "hanifisya.annafi02@gmail.com",
+        "url": "https://github.com/HanifIsya"
+      },
+      "homepage": "https://github.com/HanifIsya/ml-code-analysis-skill",
+      "repository": "https://github.com/HanifIsya/ml-code-analysis-skill",
+      "license": "MIT",
+      "keywords": [
+        "machine-learning",
+        "code-analysis",
+        "technical-report",
+        "docx-generator",
+        "ai-skill"
+      ],
+      "category": "machine-learning",
+      "tags": [
+        "ml",
+        "data-science",
+        "report",
+        "docx",
+        "code-review"
+      ]
+    }
+  ]
+}
